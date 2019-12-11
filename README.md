@@ -1,0 +1,2 @@
+# BTCUSD
+EUR
